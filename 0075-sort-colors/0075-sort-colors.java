@@ -19,8 +19,6 @@ class Solution {
                 k++;
             }
         }
-        for(int l=0;i<nums.length;i++){
-            System.out.print(nums[l]);
-        }
+        
     }
 }
