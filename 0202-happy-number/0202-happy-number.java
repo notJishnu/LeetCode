@@ -16,6 +16,7 @@ class Solution {
         if(sumOfSquareDigits(slow)==1){
             return true;
         }
+
         while(fast!=1){
             slow=sumOfSquareDigits(slow);
             fast=sumOfSquareDigits(sumOfSquareDigits(fast));
