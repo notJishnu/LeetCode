@@ -5,10 +5,10 @@ class Solution {
         Set<Integer> set=new HashSet<>();
         int min=nums[0],
             max=nums[0];
-        for(int n:nums){
-            if(n>max)max=n;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>max)max=nums[i];
 
-            if(n<min)min=n;
+            if(nums[i]<min)min=nums[i];
         }
 
         for(int i=0;i<nums.length;i++){
