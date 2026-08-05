@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        Arrays.sort(nums);
+        
         List <Integer> list=new ArrayList<>();
         Set<Integer> set=new HashSet<>();
         int min=nums[0],
