@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/notJishnu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/notJishnu/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/notJishnu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/notJishnu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
