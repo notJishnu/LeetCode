@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/notJishnu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notJishnu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -162,13 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
