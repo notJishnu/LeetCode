@@ -1,36 +1,35 @@
 class MyCalendar {
 
-    List<int[]> bookings;
-
+    List<int []> bookings;
     public MyCalendar() {
-        bookings = new ArrayList<int[]>();
+        bookings=new ArrayList<int []>();
     }
-
+    
     public boolean book(int startTime, int endTime) {
-        if (bookings.size() == 0) {
-            bookings.add(new int[] {
-                    startTime,
-                    endTime - 1
+        if(bookings.size()==0){
+            bookings.add(new int[]{
+                startTime,
+                endTime-1
             });
             return true;
         }
-        for (int i = 0; i < bookings.size(); i++) {
-            int s1 = bookings.get(i)[0],
-                    e1 = bookings.get(i)[1],
-                    s2 = startTime,
-                    e2 = endTime - 1;
-            if (e1 >= s2 && e2 >= s1) {
+
+        
+        for(int i=0;i<bookings.size();i++){
+            int s1=bookings.get(i)[0],
+                e1=bookings.get(i)[1],
+                s2=startTime,
+                e2=endTime-1;
+            if(e1>=s2 && e2>=s1){
                 return false;
             }
-
         }
-        bookings.add(new int[] {
-                startTime,
-                endTime - 1
+        bookings.add(new int[]{
+            startTime,
+            endTime-1
         });
         return true;
     }
-
 }
 
 /**
