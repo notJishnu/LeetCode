@@ -11,24 +11,26 @@
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
 
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
-        ListNode p=dummy,
-                c=head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        int counter=0;
-        while(counter<left-1){
+        ListNode p = dummy;
+        ListNode c = head;
+
+        int counter = 0;
+        while (counter < left - 1) {
             counter++;
-            p=c;
-            c=c.next;
+            p = c;
+            c = c.next;
         }
-        ListNode prev=null,
-                curr=c;
 
-        counter=0;
-        while(counter<right-left+1){
+        counter = 0;
+        ListNode prev=null;
+        ListNode curr=c;
+        while (counter < right - left + 1) {
             counter++;
             ListNode next=curr.next;
+
             curr.next=prev;
             prev=curr;
             curr=next;
