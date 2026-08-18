@@ -28,16 +28,15 @@ class Solution {
             prev=curr;
             curr=next;
         }
-        ListNode l1=head,
-                l2=prev;
+        slow=head;
 
-        while(l2.next!=null){
-            ListNode temp1=l1.next;
-            ListNode temp2=l2.next;
-            l1.next=l2;
-            l2.next=temp1;
-            l1=temp1;
-            l2=temp2;
+        while(prev.next!=null){
+            ListNode temp1=slow.next;
+            ListNode temp2=prev.next;
+            slow.next=prev;
+            prev.next=temp1;
+            slow=temp1;
+            prev=temp2;
             
         }
         
