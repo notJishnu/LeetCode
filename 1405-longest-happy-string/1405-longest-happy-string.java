@@ -1,41 +1,55 @@
+class CharacterCount {
+    int count;
+    char c;
+
+    public CharacterCount(int count, char c) {
+        this.c = c;
+        this.count = count;
+    }
+}
+
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
-        int s_a = 0,
-                s_b = 0,
-                s_c = 0;
+        PriorityQueue<CharacterCount> maxheap = new PriorityQueue<CharacterCount>((x, y) -> y.count - x.count);
 
-        StringBuilder sb = new StringBuilder();
-        while (true) {
-            if (a > 0 && ((s_a < 2 && a >= b && a >= c) ||
-                    (s_b == 2 && b >= a && a >= c) ||
-                    (s_c == 2 && c >= a && a >= b))) {
-                sb.append('a');
-                s_a++;
-                s_b = 0;
-                s_c = 0;
+        if(a>0){
+            maxheap.add(new CharacterCount(a,'a'));
+        }
+        if(b>0){
+            maxheap.add(new CharacterCount(b,'b'));
+        }
+        if(c>0){
+            maxheap.add(new CharacterCount(c,'c'));
+        }
 
-                a--;
-            } else if (b > 0 && ((s_b < 2 && b >= a && b >= c) ||
-                    (s_a == 2 && a >= b && b >= c) ||
-                    (s_c == 2 && c >= b && b >= a))) {
-                sb.append('b');
-                s_b++;
-                s_a = 0;
-                s_c = 0;
+        StringBuilder sb=new StringBuilder();
 
-                b--;
-            } else if (c > 0 && ((s_c < 2 && c >= a && c >= b) ||
-                    (s_a == 2 && a >= c && c >= b) ||
-                    (s_b == 2 && b >= c && c >= a))) {
-                sb.append('c');
-                s_c++;
-                s_a = 0;
-                s_b = 0;
+        while(!maxheap.isEmpty()){
+            CharacterCount maxEle=maxheap.poll();
+            int count=maxEle.count;
+            char ch=maxEle.c;
+            if(sb.length()>=2 && sb.charAt(sb.length()-1)==ch && sb.charAt(sb.length()-2)==ch){
+                if(maxheap.isEmpty()){
+                    break;
+                }
+                CharacterCount secondMaxEle=maxheap.poll();
 
-                c--;
-            } else {
-                break;
+                int sCount=secondMaxEle.count;
+                char sC=secondMaxEle.c;
+
+                sb.append(sC);
+                sCount--;
+                if(sCount>0){
+                    maxheap.add(new CharacterCount(sCount,sC));
+                }
+            }else{
+                sb.append(ch);
+                count--;
+                
             }
+            if(count>0){
+                maxheap.add(new CharacterCount(count,ch));
+            } 
         }
         return sb.toString();
     }
