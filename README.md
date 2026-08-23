@@ -194,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/notJishnu/LeetCode/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/notJishnu/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/notJishnu/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
