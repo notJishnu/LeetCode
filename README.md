@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/notJishnu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/notJishnu/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/notJishnu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notJishnu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/notJishnu/LeetCode/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/notJishnu/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/notJishnu/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/notJishnu/LeetCode/tree/master/0183-customers-who-never-order) |
 | [1873-calculate-special-bonus](https://github.com/notJishnu/LeetCode/tree/master/1873-calculate-special-bonus) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
