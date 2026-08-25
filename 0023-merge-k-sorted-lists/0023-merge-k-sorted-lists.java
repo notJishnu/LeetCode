@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
         List<Integer> list = new ArrayList<>();
         for (ListNode node : lists) {
             while (node != null) {
@@ -19,8 +17,13 @@ class Solution {
                 node = node.next;
             }
         }
+
         Collections.sort(list);
-        for (int val : list) {
+
+        ListNode dummy=new ListNode(0);
+        ListNode curr=dummy;
+
+        for(int val: list){
             ListNode newNode=new ListNode(val);
             curr.next=newNode;
             curr=curr.next;
