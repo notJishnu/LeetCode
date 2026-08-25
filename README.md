@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/notJishnu/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/notJishnu/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3169-count-days-without-meetings](https://github.com/notJishnu/LeetCode/tree/master/3169-count-days-without-meetings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/notJishnu/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/notJishnu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
