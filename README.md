@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/notJishnu/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/notJishnu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/notJishnu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/notJishnu/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/notJishnu/LeetCode/tree/master/1405-longest-happy-string) |
