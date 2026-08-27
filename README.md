@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/notJishnu/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/notJishnu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/notJishnu/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/notJishnu/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/notJishnu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
