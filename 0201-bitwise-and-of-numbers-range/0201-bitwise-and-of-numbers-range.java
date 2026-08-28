@@ -6,9 +6,6 @@ class Solution {
             right=right>>1;
             shifts++;
         }
-        for(int i=0;i<shifts;i++){
-            left=left<<1;
-        }
-        return left;
+        return left<<shifts;
     }
 }
