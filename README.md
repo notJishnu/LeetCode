@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3169-count-days-without-meetings](https://github.com/notJishnu/LeetCode/tree/master/3169-count-days-without-meetings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/notJishnu/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -231,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/notJishnu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
