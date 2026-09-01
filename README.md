@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2683-neighboring-bitwise-xor](https://github.com/notJishnu/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/notJishnu/LeetCode/tree/master/0476-number-complement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/notJishnu/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/notJishnu/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
