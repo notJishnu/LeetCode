@@ -4,10 +4,8 @@ class Solution {
         for(int i=0;i<derived.length;i++){
             res=res ^ derived[i];
         }
-        if(res==0){
-            return true;
-        }else{
-            return false;
-        }
+       
+        return (res==0);
+       
     }
 }
