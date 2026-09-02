@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/notJishnu/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1405-longest-happy-string](https://github.com/notJishnu/LeetCode/tree/master/1405-longest-happy-string) |
+| [2429-minimize-xor](https://github.com/notJishnu/LeetCode/tree/master/2429-minimize-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/notJishnu/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2429-minimize-xor](https://github.com/notJishnu/LeetCode/tree/master/2429-minimize-xor) |
 | [2683-neighboring-bitwise-xor](https://github.com/notJishnu/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
