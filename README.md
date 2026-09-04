@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/notJishnu/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/notJishnu/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
