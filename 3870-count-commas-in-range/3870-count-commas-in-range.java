@@ -1,19 +1,8 @@
 class Solution {
     public int countCommas(int n) {
-        int ans = 0;
-        int low = 1;  
-        int high = 9;  
-        int d = 1;
-        while (low <= n) {
-            int count = Math.min(n, high) - low + 1;
-            int commasPerNumber = (d - 1) / 3;
-            ans += count * commasPerNumber;
-
-            low = high + 1;
-            high = high * 10 + 9;
-            d++;
+        if(n<1000){
+            return 0;
         }
-
-        return ans;
+        return n-999;
     }
 }
