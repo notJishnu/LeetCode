@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/notJishnu/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/notJishnu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/notJishnu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/notJishnu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Rolling Hash
 |  |
