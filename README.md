@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/notJishnu/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/notJishnu/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/notJishnu/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/notJishnu/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [1873-calculate-special-bonus](https://github.com/notJishnu/LeetCode/tree/master/1873-calculate-special-bonus) |
 ## Matrix
 |  |
