@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/notJishnu/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/notJishnu/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/notJishnu/LeetCode/tree/master/0595-big-countries) |
+| [1280-students-and-examinations](https://github.com/notJishnu/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/notJishnu/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/notJishnu/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/notJishnu/LeetCode/tree/master/1873-calculate-special-bonus) |
