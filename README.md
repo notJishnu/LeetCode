@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0835-image-overlap](https://github.com/notJishnu/LeetCode/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/notJishnu/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/notJishnu/LeetCode/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/notJishnu/LeetCode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/notJishnu/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/notJishnu/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
