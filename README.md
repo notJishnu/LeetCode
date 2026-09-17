@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/notJishnu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/notJishnu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/notJishnu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/notJishnu/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/notJishnu/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notJishnu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/notJishnu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/notJishnu/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3870-count-commas-in-range](https://github.com/notJishnu/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/notJishnu/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/notJishnu/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/notJishnu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/notJishnu/LeetCode/tree/master/0476-number-complement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
