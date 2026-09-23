@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/notJishnu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/notJishnu/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0905-sort-array-by-parity](https://github.com/notJishnu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/notJishnu/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/notJishnu/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/notJishnu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/notJishnu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/notJishnu/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0835-image-overlap](https://github.com/notJishnu/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/notJishnu/LeetCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/notJishnu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/notJishnu/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
