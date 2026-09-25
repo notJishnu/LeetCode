@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/notJishnu/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/notJishnu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/notJishnu/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/notJishnu/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/notJishnu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/notJishnu/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/notJishnu/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/notJishnu/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/notJishnu/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -348,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/notJishnu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/notJishnu/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/notJishnu/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
