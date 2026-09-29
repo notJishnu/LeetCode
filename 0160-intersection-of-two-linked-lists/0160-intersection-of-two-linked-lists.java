@@ -15,8 +15,16 @@ public class Solution {
                 pB=headB;
 
         while(pA!=pB){
-            pA=(pA==null) ? headB : pA.next;
-            pB=(pB==null) ? headA : pB.next;
+            if(pA==null){
+                pA=headB;
+            }else{
+                pA=pA.next;
+            }
+            if(pB==null){
+                pB=headA;
+            }else{
+                pB=pB.next;
+            }
             
         }
         return pA;
