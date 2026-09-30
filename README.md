@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/notJishnu/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/notJishnu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/notJishnu/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/notJishnu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/notJishnu/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/notJishnu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/notJishnu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/notJishnu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/notJishnu/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
