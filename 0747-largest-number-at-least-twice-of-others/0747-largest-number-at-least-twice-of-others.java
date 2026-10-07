@@ -11,8 +11,7 @@ class Solution {
 
         for(int i=0;i<nums.length;i++){
             if(nums[i]==largest) continue;
-            if(nums[i] * 2 <=largest) continue;
-            return -1;
+            if(nums[i] * 2 > largest) return -1;
         }
         return index;
     }
