@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/notJishnu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/notJishnu/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/notJishnu/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/notJishnu/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/notJishnu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/notJishnu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/notJishnu/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/notJishnu/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/notJishnu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/notJishnu/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/notJishnu/LeetCode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/notJishnu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/notJishnu/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/notJishnu/LeetCode/tree/master/0231-power-of-two) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/notJishnu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/notJishnu/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/notJishnu/LeetCode/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/notJishnu/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
