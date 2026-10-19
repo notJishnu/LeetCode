@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/notJishnu/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/notJishnu/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/notJishnu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/notJishnu/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3169-count-days-without-meetings](https://github.com/notJishnu/LeetCode/tree/master/3169-count-days-without-meetings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/notJishnu/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/notJishnu/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/notJishnu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/notJishnu/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/notJishnu/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2683-neighboring-bitwise-xor](https://github.com/notJishnu/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/notJishnu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/notJishnu/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/notJishnu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/notJishnu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/notJishnu/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
